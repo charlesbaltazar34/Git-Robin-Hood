@@ -96,7 +96,7 @@ body {
 .img-codigo {
     align-content: end;
     border: 1px solid red;
-    padding-top: 40px;
+    padding-top: 20px;
     padding-left: 300px;
 }
 
@@ -110,9 +110,9 @@ body {
 
 .texto-codigo {
     text-align: left;
-    padding-top: 60px;
+    padding-top: 40px;
     padding-left: 30px;
-    padding-right: 600px;
+    padding-right: 400px;
     border: 1px solid red;
 
     & h3 {
