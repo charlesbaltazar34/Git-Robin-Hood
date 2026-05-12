@@ -28,7 +28,6 @@ body {
     & h1 {
         align-content: center;
         justify-content: center;
-        text-align: center;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         padding-top: 15px;
     }
@@ -45,8 +44,7 @@ body {
 .presentacion {
     display: grid;
     grid-template-rows: 200px 100px 200px;
-    justify-content: center;
-    align-content: center;
+    text-align: center;
     width: 60%;
     height: 500px;
     border: 1px solid red;
