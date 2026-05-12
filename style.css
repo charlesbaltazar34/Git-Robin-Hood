@@ -23,5 +23,12 @@ body {
     grid-template-columns: 25% 10% 10% 15% 10%;
     margin: 0;
     padding: 0;
-    border: 1px solid red;
+
+    
+
+    & h3 {
+        align-content: center;
+        justify-content: center;
+        font-family: 'Times New Roman';
+    }
 }
