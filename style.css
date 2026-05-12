@@ -130,11 +130,11 @@ body {
 }
 
 #forajido1::first-letter{
-    font-size: 2em;
+    font-size: 3em;
     font-weight: bold;
     text-transform: uppercase;
     margin-right: 10px;
-    line-height: 5;
+    line-height: 1;
 }
 
 
