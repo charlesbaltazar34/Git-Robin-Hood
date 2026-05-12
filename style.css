@@ -57,7 +57,7 @@ body {
     width: 60%;
     height: 650px;
     border: 1px solid red;
-    background-image: url("./imagen/screen.png");
+    background-image: url("./imagen/presentacion.png");
 
     & h4 {
         font-family: 'Times New Roman', Times, serif;
