@@ -41,10 +41,18 @@ body {
     }
 }
 
+.principal {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 .presentacion {
     display: grid;
     grid-template-rows: 200px 100px 200px;
-    place-items: center;
     text-align: center;
     width: 60%;
     height: 650px;
