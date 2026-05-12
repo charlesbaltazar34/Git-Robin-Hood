@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecera {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 40%;
+    background-color: beige;
+}
+
+.menu-principal{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 25% 10% 10% 15% 10%;
+    margin: 0;
+    padding: 0;
+    border: 1px solid red;
+}
