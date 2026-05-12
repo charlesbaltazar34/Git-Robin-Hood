@@ -56,14 +56,13 @@ body {
     text-align: center;
     width: 50%;
     height: 500px;
-    border: 1px solid red;
     background-image: url("./imagen/presentacion.png");
 
     & h4 {
         font-family: 'Times New Roman', Times, serif;
         color: khaki;
         font-weight: bold;
-        margin: 80px;
+        margin: 200px;
     }
 
     & h2 {
