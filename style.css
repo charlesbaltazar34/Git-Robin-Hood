@@ -97,21 +97,22 @@ body {
     align-content: end;
     border: 1px solid red;
     padding-top: 40px;
-    padding-left: 150px;
+    padding-left: 300px;
 }
 
 .img-cuadro {
     width: 320px;
     height: 360px;
     padding: 10px;
-    border: 1px solid blue;
+    border: 2px solid gainsboro;
+    border-radius: 1.5px;
 }
 
 .texto-codigo {
     text-align: left;
     padding-top: 60px;
     padding-left: 30px;
-    padding-right: 800px;
+    padding-right: 600px;
     border: 1px solid red;
 
     & h3 {
