@@ -63,7 +63,8 @@ body {
         font-family: 'Times New Roman', Times, serif;
         color: khaki;
         font-weight: bold;
-        text-align: end;
+        align-content: end;
+        justify-content: center;
     }
 
     & h2 {
@@ -80,6 +81,9 @@ body {
         font-size: 14px;
         color: lemonchiffon;
         text-align: center;
+        font-weight: bold;
         align-content: center;
+        padding-left: 25px;
+        padding-right: 25px;
     }
 }
