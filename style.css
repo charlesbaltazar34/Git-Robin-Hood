@@ -90,7 +90,6 @@ body {
     display: grid;
     grid-template-columns: 50% 50%;
     width: 100%;
-    border: 1px solid red;
     padding-top: 20px;
 }
 
@@ -98,6 +97,7 @@ body {
     text-align: right;
     justify-content: right;
     align-items: end;
+    border: 1px solid red;
 }
 
 .img-cuadro {
@@ -111,6 +111,7 @@ body {
     text-align: left;
     padding-left: 30px;
     padding-right: 120px;
+    border: 1px solid red;
 
     & h3 {
         text-align: left;
