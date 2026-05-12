@@ -94,17 +94,17 @@ body {
 }
 
 .img-codigo {
-    text-align: right;
-    justify-content: right;
-    align-items: end;
+    text-align: center;
+    justify-content: center;
     border: 1px solid red;
+    padding-top: 40px;
 }
 
 .img-cuadro {
-    background-image: url("./imagen/codigo.png");
     width: 320px;
     height: 360px;
     padding: 10px;
+    border: 1px solid blue;
 }
 
 .texto-codigo {
