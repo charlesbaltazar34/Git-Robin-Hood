@@ -94,8 +94,7 @@ body {
 }
 
 .img-codigo {
-    text-align: center;
-    justify-content: center;
+    align-content: end;
     border: 1px solid red;
     padding-top: 40px;
 }
@@ -109,8 +108,9 @@ body {
 
 .texto-codigo {
     text-align: left;
+    padding-top: 60px;
     padding-left: 30px;
-    padding-right: 120px;
+    padding-right: 200px;
     border: 1px solid red;
 
     & h3 {
