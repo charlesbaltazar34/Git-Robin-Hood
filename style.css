@@ -97,7 +97,7 @@ body {
 .img-codigo {
     align-content: end;
     padding-top: 20px;
-    padding-left: 250px;
+    padding-left: 350px;
 }
 
 .img-cuadro {
@@ -112,7 +112,7 @@ body {
     text-align: left;
     padding-top: 40px;
     padding-left: 30px;
-    padding-right: 250px;
+    padding-right: 150px;
 
     & h3 {
         text-align: left;
